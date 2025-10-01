@@ -2,3 +2,5 @@ Hi! In this repository, I am sharing what I learned in Atıl Samancıoğlu's Dat
 The folders I am sharing contain the Python code I wrote during the camp and notes on the documents shared by Atıl Samancıoğlu.
 
 Here is the course link: https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp
+
+**Note: I'm updating this repository regularly**
